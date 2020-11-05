@@ -1,3 +1,9 @@
+## Setup
+Before running the tests execute the following commands to setup the project:
+1. Install the recommended NodeJS version specified by (`.nvmrc`) by running: `nvm i` 
+2. Use the recommended version of NodeJS by running: `nvm use`
+3. Install the project dependencies by running: `npm i`
+
 These are a series of javascript exercises intended to be used alongside the curriculum at 'The Odin Project'. They start simple and easy, but get more complex and involved as you progress through them.
 
 There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified. However, there are a few exercises which make a good "starting point". Feel free to at least start with these:
